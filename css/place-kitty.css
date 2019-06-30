@@ -10,7 +10,11 @@
 
 /* Select the image with id of kitty-2 */
 
+<<<<<<< HEAD
 /*__write_selector_here__*/ #kitty-2 {
+=======
+/*__write_selector_here__*/ .kitty-2 {
+>>>>>>> 08cfaa12fd9d927f3edca6234d83b81aded7ae36
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -19,7 +23,11 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
+<<<<<<< HEAD
 /*__write_selector_here__*/ #basket img {
+=======
+/*__write_selector_here__*/ #basket li {
+>>>>>>> 08cfaa12fd9d927f3edca6234d83b81aded7ae36
   position: absolute;
   z-index: 5;
   top: 291px;
